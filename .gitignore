@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Trained models
+*.zip
+
+# TensorBoard / Monitor logs
+logs/
+*.monitor.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
